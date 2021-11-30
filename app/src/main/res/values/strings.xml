@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
+    <string name="hello">hello!!!</string>
+    <string name="new_text">NEW TEXT</string>
+    <string name="random_number">Разные числа</string>
+    <string name="random_text">random text</string>
+    <string name="next_activity">Hi in next ac.</string>
+    <string name="url_activity">url button</string>
+    <string name="random_activity">NEXT AC. RANDOM</string>
+    <string name="three_random_text">random</string>
 </resources>

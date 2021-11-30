@@ -13,4 +13,20 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Theme.MyApplication.TextViev" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="MyTextStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="MyTextStyle.Red">
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:background">#73FF5A</item>
+    </style>
+
 </resources>
